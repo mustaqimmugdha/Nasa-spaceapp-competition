@@ -1,0 +1,22 @@
+
+How the images will be processed based on time and patten of the article given bellow
+https://earthobservatory.nasa.gov/features/ColorImage
+
+
+
+Images are been taken from NASA Satellite  
+https://search.earthdata.nasa.gov/search/granules?p=C194001237-LPDAAC_ECS&m=-136.265625!-34.171875!0!1!0!0%2C2&q=high%20resolution%20tree%20data&ok=high%20resolution%20tree%20data&fp=Landsat-7!Landsat-5!Terra
+https://earthexplorer.usgs.gov/?fbclid=IwAR1PGEhJqvMXXCDT_tlLM8ZFMeRabWPP15D5VWaqESHU02mQlkrHeZcTv4U
+https://search.earthdata.nasa.gov/search/granules?p=C1540118694-LPDAAC_ECS&m=-28.546875!-468.98437499999994!0!1!0!0%2C2&q=high%20resolution%20tree%20data&ok=high%20resolution%20tree%20data&fp=Landsat-7!Landsat-5
+https://zoom.earth/
+We are also looking for more suitable dataset, will be added if we get any 
+
+
+We used this link to set up our details and web site development
+https://earthdata.nasa.gov/collaborate/open-data-services-and-software/api#tools
+https://earthdata.nasa.gov/collaborate/open-data-services-and-software/api
+
+
+Third party source-
+ Google map 
+ Images
